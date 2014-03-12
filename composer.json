@@ -1,0 +1,24 @@
+{
+    "name": "ftec-faculdades/dti-lessphp",
+    "description": "Módulo responsável para as compilação de arquivo Less",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "module",
+        "zf2",
+        "dti",
+		"less"
+    ],
+    "homepage": "https://github.com/ftec-faculdades/DTILessphp",
+    "authors": [
+        {
+            "name": "Sérgio Ernane Munhós Hermes",
+            "email": "sergiohermes@ftec.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "DTILessphp": "src/"
+        }
+    }
+}
